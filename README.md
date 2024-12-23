@@ -50,7 +50,7 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 [13/12/2024] Conservation Laws: Theory and Numerical Methods (Shuang Hu) [**Video**](https://www.bilibili.com/video/BV1f3BgYfESm/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) **Note**: [Class Note](./Notes/9th_Conservation_Law.pdf), [Summary(Markdomn)](./Notes/Summary%20for%20Conservation%20Law(2).md)
 
-[20/12/2024] Introduction to BSDEs (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1z6kbY4EPw/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423)  [**Note**:](./Notes/10_Introduction_Of_Bsdes_GuojiangShao.pdf)
+[20/12/2024] Introduction to BSDEs (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1z6kbY4EPw/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423)  [**Note**](./Notes/10_Introduction_Of_Bsdes_GuojiangShao.pdf)
 
 
 ## Paper
