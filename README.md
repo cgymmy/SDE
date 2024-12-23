@@ -4,7 +4,7 @@
 
 1. [Applied Stochastic Differential Equations by Simo Särkkä](./reference/Applied%20stochastic%20differential%20equations%20(Saarkk,%20Simo%20Solin,%20Arno).pdf) -- [Code](https://github.com/AaltoML/SDE)
 
-1. [An introduction to computational Stochastic PDEs by Gabriel J.Lord](./reference/Introduction%20to%20stochastic%20calculus%20with%20application_Kelbaner.pdf) -- [Official Code](./PICSPDE-PICSPDE/);
+1. [An introduction to computational Stochastic PDEs by Gabriel J.Lord](./reference/Introduction%20to%20stochastic%20calculus%20with%20application_Kelbaner.pdf) -- [Official Code]([./PICSPDE-PICSPDE/](https://github.com/tonyshardlow/PICSPDE));
 Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 ### About Optimal Transport:
@@ -50,8 +50,7 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 [13/12/2024] Conservation Laws: Theory and Numerical Methods (Shuang Hu) [**Video**](https://www.bilibili.com/video/BV1f3BgYfESm/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) **Note**: [Class Note](./Notes/9th_Conservation_Law.pdf), [Summary(Markdomn)](./Notes/Summary%20for%20Conservation%20Law(2).md)
 
-
-
+[20/12/2024] Introduction to BSDEs (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1z6kbY4EPw/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423)  [**Note**:](./Notes/10_Introduction_Of_Bsdes_GuojiangShao.pdf)
 
 
 ## Paper
