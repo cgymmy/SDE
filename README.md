@@ -52,7 +52,7 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 [20/12/2024] Introduction to BSDEs (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1z6kbY4EPw/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423)  [**Note**](./Notes/10_Introduction_Of_Bsdes_GuojiangShao.pdf)
 
-[27/12/2024] Optimization methods with imagine inverse problems (Shengze Xu)[**Video](https://www.bilibili.com/video/BV1RCCHYNERB/?spm_id_from=333.999.0.0) [**Notes](Notes/11_Xushengze_PnP_with_Optimization_methods_Notes.pdf)
+[27/12/2024] Optimization methods with imagine inverse problems (Shengze Xu)[**Video**](https://www.bilibili.com/video/BV1RCCHYNERB/?spm_id_from=333.999.0.0) [**Notes**](Notes/11_Xushengze_PnP_with_Optimization_methods_Notes.pdf)
 
 
 ## Paper
