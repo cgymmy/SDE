@@ -4,7 +4,7 @@
 
 1. [Applied Stochastic Differential Equations by Simo Särkkä](./reference/Applied%20stochastic%20differential%20equations%20(Saarkk,%20Simo%20Solin,%20Arno).pdf) -- [Code](https://github.com/AaltoML/SDE)
 
-1. [An introduction to computational Stochastic PDEs by Gabriel J.Lord](./reference/Introduction%20to%20stochastic%20calculus%20with%20application_Kelbaner.pdf) -- [Official Code]([./PICSPDE-PICSPDE/](https://github.com/tonyshardlow/PICSPDE));
+1. [An introduction to computational Stochastic PDEs by Gabriel J.Lord](./reference/Introduction%20to%20stochastic%20calculus%20with%20application_Kelbaner.pdf) -- [Official Code](https://github.com/tonyshardlow/PICSPDE);
 Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 ### About Optimal Transport:
