@@ -56,7 +56,9 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 [03/01/2025] SDE and Diffusion Model (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV17mrVYCE5V?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**](./Notes/12_GuanyuChen_SDEAndDiffusion.pdf)
 
-[10/01/2025] Numerical methods for Stochastic Controls (Nanyi Zhang) [**Video**]() [**Note**](./Notes/13_Nanyi_Zhang_numerical_methods_for_stochastic_controls%20(1).pdf)
+[10/01/2025] Numerical methods for Stochastic Controls (Nanyi Zhang) [**Video**](https://www.bilibili.com/video/BV12RwAeSE9q?spm_id_from=333.788.videopod.sections&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/13_Nanyi_Zhang_numerical_methods_for_stochastic_controls%20(1).pdf)
+
+
 ## Paper
 
 [Arxiv 2017] [Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations](https://arxiv.org/pdf/1706.04702)
