@@ -58,7 +58,7 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 [10/01/2025] Numerical methods for Stochastic Controls (Nanyi Zhang) [**Video**](https://www.bilibili.com/video/BV12RwAeSE9q?spm_id_from=333.788.videopod.sections&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/13_Nanyi_Zhang_numerical_methods_for_stochastic_controls%20(1).pdf)
 
-[17/01/2025] Introduction to Inverse problems (Haoxiang Zhang) [**Video**]() [**Note**](./Notes/14_Haoxiang_Zhang_Introduction_To_Inverse_Problems.pdf)
+[17/01/2025] Introduction to Inverse problems (Haoxiang Zhang) [**Video**](https://www.bilibili.com/video/BV1TRwAeDEBJ?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**](./Notes/14_Haoxiang_Zhang_Introduction_To_Inverse_Problems.pdf)
 
 ## Paper
 
