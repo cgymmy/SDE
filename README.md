@@ -29,40 +29,40 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 
 ## Seminar slides
-[18/10/2024] Conditional expectation Brownian motion and stochastic integrals (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1KKCmY4E55/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/Shao_Class_A%20First%20Course%20Of%20Sde.pdf)
+[18/10/2024] Conditional expectation Brownian motion and stochastic integrals (Guojiang Shao) [**[Video]**](https://www.bilibili.com/video/BV1KKCmY4E55/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**[Note]**](./Notes/Shao_Class_A%20First%20Course%20Of%20Sde.pdf)
 
-[25/10/2024] Ito formula and SDEs (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV15myXYoEdY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/Shao-Class-Second%20Course%20Of%20Sde.pdf)
+[25/10/2024] Ito formula and SDEs (Guojiang Shao) [**[Video]**](https://www.bilibili.com/video/BV15myXYoEdY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=4bc987028313212ccd814d6c4d888423) [**[Note]**](./Notes/Shao-Class-Second%20Course%20Of%20Sde.pdf)
 
-[01/11/2024] Numerical methods for Ito SODEs (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV1JUSdYpEAs/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
-[**Note**](./Notes/3_Guanyu_class_note.pdf)
+[01/11/2024] Numerical methods for Ito SODEs (Guanyu Chen) [**[Video]**](https://www.bilibili.com/video/BV1JUSdYpEAs/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
+[**[Note]**](./Notes/3_Guanyu_class_note.pdf)
 
-[09/11/2024] Stationary Process and Random Field (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV1anDzY8EKU/?spm_id_from=333.880.my_history.page.click&vd_source=4bc987028313212ccd814d6c4d888423) 
-[**Note**](./Notes/4_Guanyu_class_note.pdf)
+[09/11/2024] Stationary Process and Random Field (Guanyu Chen) [**[Video]**](https://www.bilibili.com/video/BV1anDzY8EKU/?spm_id_from=333.880.my_history.page.click&vd_source=4bc987028313212ccd814d6c4d888423) 
+[**[Note]**](./Notes/4_Guanyu_class_note.pdf)
 
-[15/11/2024] Introduction to SPDEs and its Numerical methods (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV14fmZYvEpE/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
-[**Note**](./Notes/5_Guanyu_note.pdf)
+[15/11/2024] Introduction to SPDEs and its Numerical methods (Guanyu Chen) [**[Video]**](https://www.bilibili.com/video/BV14fmZYvEpE/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) 
+[**[Note]**](./Notes/5_Guanyu_note.pdf)
 
-[22/11/2024] Introduction to Optimal Transport (Yuxuan Shi) [**Video**](https://www.bilibili.com/video/BV1WTB2YuEU6/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/6th_YuxuanShi.pdf)
+[22/11/2024] Introduction to Optimal Transport (Yuxuan Shi) [**[Video]**](https://www.bilibili.com/video/BV1WTB2YuEU6/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**[Note]**](./Notes/6th_YuxuanShi.pdf)
 
-[29/11/2024] Deterministic optimal control problem (Tianxu Lan) [**Video**](https://www.bilibili.com/video/BV1iGzZYtEFF/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/7th_TianxuLan.pdf)
+[29/11/2024] Deterministic optimal control problem (Tianxu Lan) [**[Video]**](https://www.bilibili.com/video/BV1iGzZYtEFF/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**[Note]**](./Notes/7th_TianxuLan.pdf)
 
-[06/12/2024] Introuction of linear filtering problem (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1aCqWYHExR/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/8th_Linear_Filtering_Guojiang.pdf)
+[06/12/2024] Introuction of linear filtering problem (Guojiang Shao) [**[Video]**](https://www.bilibili.com/video/BV1aCqWYHExR/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) [**[Note]**](./Notes/8th_Linear_Filtering_Guojiang.pdf)
 
-[13/12/2024] Conservation Laws: Theory and Numerical Methods (Shuang Hu) [**Video**](https://www.bilibili.com/video/BV1f3BgYfESm/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) **Note**: [Class Note](./Notes/9th_Conservation_Law.pdf), [Summary(Markdomn)](./Notes/Summary%20for%20Conservation%20Law(2).md)
+[13/12/2024] Conservation Laws: Theory and Numerical Methods (Shuang Hu) [**[Video]**](https://www.bilibili.com/video/BV1f3BgYfESm/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423) **[Note]**: [Class Note](./Notes/9th_Conservation_Law.pdf), [Summary(Markdomn)](./Notes/Summary%20for%20Conservation%20Law(2).md)
 
-[20/12/2024] Introduction to BSDEs (Guojiang Shao) [**Video**](https://www.bilibili.com/video/BV1z6kbY4EPw/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423)  [**Note**](./Notes/10_Introduction_Of_Bsdes_GuojiangShao.pdf)
+[20/12/2024] Introduction to BSDEs (Guojiang Shao) [**[Video]**](https://www.bilibili.com/video/BV1z6kbY4EPw/?spm_id_from=333.999.0.0&vd_source=4bc987028313212ccd814d6c4d888423)  [**[Note]**](./Notes/10_Introduction_Of_Bsdes_GuojiangShao.pdf)
 
-[27/12/2024] Optimization methods with imagine inverse problems (Shengze Xu)[**Video**](https://www.bilibili.com/video/BV1RCCHYNERB/?spm_id_from=333.999.0.0) [**Notes**](Notes/11_Xushengze_PnP_with_Optimization_methods_Notes.pdf)
+[27/12/2024] Optimization methods with imagine inverse problems (Shengze Xu)[**[Video]**](https://www.bilibili.com/video/BV1RCCHYNERB/?spm_id_from=333.999.0.0) [**[Notes]**](Notes/11_Xushengze_PnP_with_Optimization_methods_Notes.pdf)
 
-[03/01/2025] SDE and Diffusion Model (Guanyu Chen) [**Video**](https://www.bilibili.com/video/BV17mrVYCE5V?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**](./Notes/12_GuanyuChen_SDEAndDiffusion.pdf)
+[03/01/2025] SDE and Diffusion Model (Guanyu Chen) [**[Video]**](https://www.bilibili.com/video/BV17mrVYCE5V?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**[Note]**](./Notes/12_GuanyuChen_SDEAndDiffusion.pdf)
 
-[10/01/2025] Numerical methods for Stochastic Controls (Nanyi Zhang) [**Video**](https://www.bilibili.com/video/BV12RwAeSE9q?spm_id_from=333.788.videopod.sections&vd_source=4bc987028313212ccd814d6c4d888423) [**Note**](./Notes/13_Nanyi_Zhang_numerical_methods_for_stochastic_controls%20(1).pdf)
+[10/01/2025] Numerical methods for Stochastic Controls (Nanyi Zhang) [**[Video]**](https://www.bilibili.com/video/BV12RwAeSE9q?spm_id_from=333.788.videopod.sections&vd_source=4bc987028313212ccd814d6c4d888423) [**[Note]**](./Notes/13_Nanyi_Zhang_numerical_methods_for_stochastic_controls%20(1).pdf)
 
-[17/01/2025] Introduction to Inverse problems (Haoxiang Zhang) [**Video**](https://www.bilibili.com/video/BV1TRwAeDEBJ?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**](./Notes/14_Haoxiang_Zhang_Introduction_To_Inverse_Problems.pdf)
+[17/01/2025] Introduction to Inverse problems (Haoxiang Zhang) [**[Video]**](https://www.bilibili.com/video/BV1TRwAeDEBJ?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**[Note]**](./Notes/14_Haoxiang_Zhang_Introduction_To_Inverse_Problems.pdf)
 
-[24/01/2025] Introduction to (Stochastic) Gradient Flow (Yixuan Yang)[**Video**](https://www.bilibili.com/video/BV1ZUffYnEQ3?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**](./Notes/15_YixuanYang_Introduction_to_(Stochastic)_Gradient_Flow.pdf)
+[24/01/2025] Introduction to (Stochastic) Gradient Flow (Yixuan Yang)[**[Video]**](https://www.bilibili.com/video/BV1ZUffYnEQ3?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**[Note]**](./Notes/15_YixuanYang_Introduction_to_(Stochastic)_Gradient_Flow.pdf)
 
-[14/02/2025] Discontinuous Galerkin Method for Hyperbolic Equations (Shuang Hu)[**Video**](https://www.bilibili.com/video/BV1JHw9eLEpz?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**]()
+[14/02/2025] Discontinuous Galerkin Method for Hyperbolic Equations (Shuang Hu)[**[Video]**](https://www.bilibili.com/video/BV1JHw9eLEpz?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**[Note]**]() [**[Reference]**](./Notes/DG-note-1.pdf)
 
 ## Paper
 
