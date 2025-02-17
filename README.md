@@ -62,6 +62,8 @@ Our code [Personal code](https://github.com/Zebrainy-cgy/learnSDE)
 
 [24/01/2025] Introduction to (Stochastic) Gradient Flow (Yixuan Yang)[**Video**](https://www.bilibili.com/video/BV1ZUffYnEQ3?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**](./Notes/15_YixuanYang_Introduction_to_(Stochastic)_Gradient_Flow.pdf)
 
+[14/02/2025] Discontinuous Galerkin Method for Hyperbolic Equations (Shuang Hu)[**Video**](https://www.bilibili.com/video/BV1JHw9eLEpz?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9) [**Note**]()
+
 ## Paper
 
 [Arxiv 2017] [Deep learning-based numerical methods for high-dimensional parabolic partial differential equations and backward stochastic differential equations](https://arxiv.org/pdf/1706.04702)
