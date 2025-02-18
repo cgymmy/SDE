@@ -2,14 +2,14 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-| 21/02/2025 | Fan Yuxin    | Bayesian methods in inverse problems         |
-| 28/02/2025 | Li Huiteng   | Deep Neural Networks and Finite Element Methods |
-| 07/03/2025 | Deng Maolin  | Topics about Hamilton Dynamic                |
-| 14/03/2025 | Huang Hao    | Introduction to Neural Tangent Kernel        |
-| 21/03/2025 | Li Yuanfan   | Stability and generalization analysis        |
-| 28/03/2025 | Zhou Yuxin   | Numerical methods for optimal transport      |
+| 21/02/2025 | Fan Yuxin<br>(CUHK)    | Bayesian methods in inverse problems         |
+| 28/02/2025 | Li Huiteng<br>(ZJU)   | Deep Neural Networks and Finite Element Methods |
+| 07/03/2025 | Deng Maolin<br>(CUHK)  | Topics about Hamilton Dynamic                |
+| 14/03/2025 | Huang Hao<br>(ZJU)    | Introduction to Neural Tangent Kernel        |
+| 21/03/2025 | Li Yuanfan<br>(ZJU)   | Stability and generalization analysis        |
+| 28/03/2025 | Zhou Yuxin<br>(PKU)   | Numerical methods for optimal transport      |
 | 04/04/2025 | **Holiday**  |                                               |
-| 11/04/2025 | Hanfei Zhou  | Topic about operator learning                |
+| 11/04/2025 | Hanfei Zhou<br>(FDU)  | Topic about operator learning                |
 
 
 
