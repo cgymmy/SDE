@@ -1,4 +1,4 @@
-# Awesome SDE(Stochastic Differential Equation)
+# Awesome Applied Mathematics research
 ## List of some reference books.
 ### About Stochastic Differential Equation:
 
