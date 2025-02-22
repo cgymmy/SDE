@@ -17,7 +17,7 @@
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
-| 21/02/2025 | Fan Yuxin<br>(CUHK)    | Bayesian methods in inverse problems         |[Note](./Notes/17_Fanyuxin_Introduction to inverse problems.pdf)|[Video](https://www.bilibili.com/video/BV1gHPcepE6e?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
+| 21/02/2025 | Fan Yuxin<br>(CUHK)    | Bayesian methods in inverse problems         |[Note]()|[Video](https://www.bilibili.com/video/BV1gHPcepE6e?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 14/02/2025  | Shuang Hu<br>(ZJU)      | Discontinuous Galerkin Method for Hyperbolic Equations | [Note](./Notes/16_ShuangHu_Discontinuous_Galerkin/) | [Video](https://www.bilibili.com/video/BV1JHw9eLEpz/) |
 | 24/01/2025  | Yixuan Yang<br>(ZJU)    | Introduction to (Stochastic) Gradient Flow     | [Note](./Notes/15_YixuanYang_Introduction_to_(Stochastic)_Gradient_Flow.pdf) | [Video](https://www.bilibili.com/video/BV1ZUffYnEQ3/) |
 | 17/01/2025  | Haoxiang Zhang<br>(ZJU) | Introduction to Inverse problems               | [Note](./Notes/14_Haoxiang_Zhang_Introduction_To_Inverse_Problems.pdf) | [Video](https://www.bilibili.com/video/BV1TRwAeDEBJ/) |
